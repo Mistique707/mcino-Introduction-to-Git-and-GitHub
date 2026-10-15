@@ -1,0 +1,10 @@
+$ git branch -a -vv
+  bug-fix-revert                b310523 [origin/bug-fix-revert] Revert "Fix typo in simple-interest.sh"
+  bug-fix-typo                  4611af0 [origin/bug-fix-typo] Fix typo in simple-interest.sh
+* main                          4611af0 [origin/main] Fix typo in simple-interest.sh
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert b310523 Revert "Fix typo in simple-interest.sh"
+  remotes/origin/bug-fix-typo   4611af0 Fix typo in simple-interest.sh
+  remotes/origin/main           4611af0 Fix typo in simple-interest.sh
+  remotes/upstream/HEAD         -> upstream/main
+  remotes/upstream/main         ad95b0a Create close_pr.yml

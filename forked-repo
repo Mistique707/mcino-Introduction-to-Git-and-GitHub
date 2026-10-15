@@ -1,0 +1,7 @@
+$ curl -s https://api.github.com/repos/Mistique707/mcino-Introduction-to-Git-and-GitHub | grep -wE 'full_name|fork'
+  "full_name": "Mistique707/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
